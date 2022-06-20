@@ -1,5 +1,5 @@
 # zinnia
-fork of the zinnia package for AUR PKGBUILD
+fork of the zinnia
 
 Zinnia: Online hand recognition system with machine learning
 
